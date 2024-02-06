@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "269736030726",
+    "project_id": "dummy-c2daa",
+    "storage_bucket": "dummy-c2daa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269736030726:android:99db659e133437c7f98987",
+        "android_client_info": {
+          "package_name": "com.example.aeroplane"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD50r6vJPbin1jr4yl17Nuob4uYwJhf4_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269736030726:android:af50c8f4265ba03cf98987",
+        "android_client_info": {
+          "package_name": "com.example.groceteria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD50r6vJPbin1jr4yl17Nuob4uYwJhf4_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269736030726:android:89f7bb66baacf35df98987",
+        "android_client_info": {
+          "package_name": "com.tripdash.tripdash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD50r6vJPbin1jr4yl17Nuob4uYwJhf4_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
